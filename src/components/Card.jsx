@@ -1,22 +1,21 @@
+import clsx from "clsx";
+
 export default function Card(props) {
-
+    const { number, color, id, flipCard, isFlipped, isDisabled, isFound } = props;
+ 
     const style = {
-        backgroundColor: props.color
-    }
-
-    function flipCard() {
-        props.flipCard(props.id)
+        backgroundColor: color
     }
 
     return (
-    <div className={`card-container ${props.isFound ? 'found' : ''} ${props.isDisabled ? 'disabled' : ''}`}>
-        <div onClick={flipCard} className={`card ${props.isFlipped ? 'flipped' : ''}`}>
-            <div className="card-front">
-                {props.number}
-            </div>
-            <div className='card-back' style={style}>
+        <div className={clsx('card-container', {'found': isFound, 'disabled': isDisabled})}>
+            <div onClick={() => flipCard(id, true)} className={clsx('card', {'flipped': isFlipped})}>
+                <div className="card-front">
+                    {number}
+                </div>
+                <div className='card-back' style={style}>
+                </div>
             </div>
         </div>
-    </div>
     )
 }

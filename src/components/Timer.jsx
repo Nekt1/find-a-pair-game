@@ -1,5 +1,7 @@
 export default function Timer(props) {
     return (
-        <div className='timer'>{props.timeLeft}</div>
+        <div className='timer'>
+            TIME: {props.timeLeft}
+        </div>
     )
 }
