@@ -10,3 +10,19 @@ export function executeAfterDelay(fn, delay) {
         setTimeout(() => resolve(fn()), delay)
     })
 }
+
+export function flippedCardsCount(cards) {
+    return cards.filter(card => {
+        return card.isFlipped 
+    }).length
+}
+
+export function getFlippedCards(cards) {
+    return cards.filter(card => card.isFlipped)
+}
+
+export function matchedCardsAmount(cards) {
+    return cards.filter(card => {
+        return card.isMatched
+    }).length
+}

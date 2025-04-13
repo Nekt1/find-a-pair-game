@@ -1,6 +1,6 @@
 export default function TurnCounter(props) {
     return (
-        <div>
+        <div className="turnCounter">
             TURNS: {props.turnsLeft}
         </div>
     )
