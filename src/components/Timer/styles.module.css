@@ -1,0 +1,12 @@
+.timer {
+    text-wrap: nowrap;
+    user-select: none;
+    width: 20%;
+}
+
+@media only screen and (max-width: 800px) {
+	.timer {
+		width: 100%;
+		text-align: center;
+	}
+}
