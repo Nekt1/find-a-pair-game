@@ -23,6 +23,7 @@
 
 .settingsContent {
 	transform: translateX(200%);
+	visibility: none;
 	display: flex;
 	justify-content: center;
 	align-items: center;
