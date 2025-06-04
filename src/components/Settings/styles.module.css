@@ -1,4 +1,5 @@
 .settings {
+	overflow: hidden;
 	position: absolute;
 	right: 15%;
 	top: 5%;
@@ -17,13 +18,13 @@
 	opacity: 0.8;
 }
 
-.settingsImg.rotate {
+.rotate {
 	transform: rotate(180deg);
 }
 
 .settingsContent {
 	transform: translateX(200%);
-	visibility: none;
+	visibility: hidden;
 	display: flex;
 	justify-content: center;
 	align-items: center;

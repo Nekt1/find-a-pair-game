@@ -13,7 +13,7 @@ export default function Settings(props) {
 		<div className={styles.settings}>
 			<input
 				type="image"
-				className={clsx(styles.settingsImg, { rotate: isSettingsToggled })}
+				className={clsx(styles.settingsImg, { [styles.rotate]: isSettingsToggled })}
 				src={settings_icon}
 				onClick={toggleSettings}
 				aria-label="card"
