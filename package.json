@@ -3,6 +3,7 @@
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
+	"homepage": "https://nekt1.github.io/find-a-pair-game",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",

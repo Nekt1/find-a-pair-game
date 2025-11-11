@@ -5,27 +5,27 @@
 		"CARDS_DATA": [
 			{
 				"number": 1,
-				"sourceImg": "src/assets/airport_shuttle.svg"
+				"sourceImg": "assets/airport_shuttle.svg"
 			},
 			{
 				"number": 2,
-				"sourceImg": "src/assets/boat.svg"
+				"sourceImg": "assets/boat.svg"
 			},
 			{
 				"number": 3,
-				"sourceImg": "src/assets/cable_car.svg"
+				"sourceImg": "assets/cable_car.svg"
 			},
 			{
 				"number": 4,
-				"sourceImg": "src/assets/delivery_truck.svg"
+				"sourceImg": "assets/delivery_truck.svg"
 			},
 			{
 				"number": 5,
-				"sourceImg": "src/assets/electric_car.svg"
+				"sourceImg": "assets/electric_car.svg"
 			},
 			{
 				"number": 6,
-				"sourceImg": "src/assets/forklift.svg"
+				"sourceImg": "assets/forklift.svg"
 			}
 		]
 	},
@@ -35,39 +35,39 @@
 		"CARDS_DATA": [
 			{
 				"number": 1,
-				"sourceImg": "src/assets/airport_shuttle.svg"
+				"sourceImg": "assets/airport_shuttle.svg"
 			},
 			{
 				"number": 2,
-				"sourceImg": "src/assets/boat.svg"
+				"sourceImg": "assets/boat.svg"
 			},
 			{
 				"number": 3,
-				"sourceImg": "src/assets/cable_car.svg"
+				"sourceImg": "assets/cable_car.svg"
 			},
 			{
 				"number": 4,
-				"sourceImg": "src/assets/delivery_truck.svg"
+				"sourceImg": "assets/delivery_truck.svg"
 			},
 			{
 				"number": 5,
-				"sourceImg": "src/assets/electric_car.svg"
+				"sourceImg": "assets/electric_car.svg"
 			},
 			{
 				"number": 6,
-				"sourceImg": "src/assets/forklift.svg"
+				"sourceImg": "assets/forklift.svg"
 			},
 			{
 				"number": 7,
-				"sourceImg": "src/assets/front_loader.svg"
+				"sourceImg": "assets/front_loader.svg"
 			},
 			{
 				"number": 8,
-				"sourceImg": "src/assets/funicular.svg"
+				"sourceImg": "assets/funicular.svg"
 			},
 			{
 				"number": 9,
-				"sourceImg": "src/assets/rental_car.svg"
+				"sourceImg": "assets/rental_car.svg"
 			}
 		]
 	},
@@ -77,51 +77,51 @@
 		"CARDS_DATA": [
 			{
 				"number": 1,
-				"sourceImg": "src/assets/airport_shuttle.svg"
+				"sourceImg": "assets/airport_shuttle.svg"
 			},
 			{
 				"number": 2,
-				"sourceImg": "src/assets/boat.svg"
+				"sourceImg": "assets/boat.svg"
 			},
 			{
 				"number": 3,
-				"sourceImg": "src/assets/cable_car.svg"
+				"sourceImg": "assets/cable_car.svg"
 			},
 			{
 				"number": 4,
-				"sourceImg": "src/assets/delivery_truck.svg"
+				"sourceImg": "assets/delivery_truck.svg"
 			},
 			{
 				"number": 5,
-				"sourceImg": "src/assets/electric_car.svg"
+				"sourceImg": "assets/electric_car.svg"
 			},
 			{
 				"number": 6,
-				"sourceImg": "src/assets/forklift.svg"
+				"sourceImg": "assets/forklift.svg"
 			},
 			{
 				"number": 7,
-				"sourceImg": "src/assets/front_loader.svg"
+				"sourceImg": "assets/front_loader.svg"
 			},
 			{
 				"number": 8,
-				"sourceImg": "src/assets/funicular.svg"
+				"sourceImg": "assets/funicular.svg"
 			},
 			{
 				"number": 9,
-				"sourceImg": "src/assets/rental_car.svg"
+				"sourceImg": "assets/rental_car.svg"
 			},
 			{
 				"number": 10,
-				"sourceImg": "src/assets/shipping_truck.svg"
+				"sourceImg": "assets/shipping_truck.svg"
 			},
 			{
 				"number": 11,
-				"sourceImg": "src/assets/tower.svg"
+				"sourceImg": "assets/tower.svg"
 			},
 			{
 				"number": 12,
-				"sourceImg": "src/assets/tram.svg"
+				"sourceImg": "assets/tram.svg"
 			}
 		]
 	}

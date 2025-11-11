@@ -1,5 +1,5 @@
 import clsx from "clsx";
-import settings_icon from "../../assets/settings_icon.svg";
+import settings_icon from "../../../public/assets/settings_icon.svg"
 import styles from "./styles.module.css"
 
 export default function Settings(props) {
